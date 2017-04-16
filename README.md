@@ -1,2 +1,2 @@
 # ppbe-statutes-test
-Test repository for the statutes of ppbe
+Repository for the statutes of the Belgian Pirates
